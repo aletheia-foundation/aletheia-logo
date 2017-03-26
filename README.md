@@ -1,6 +1,6 @@
 # Aletheia
 
-_*Publish science for free, access science for free.*_
+_**Publish science for free, access science for free.**_
 
 ## Repository:
 
